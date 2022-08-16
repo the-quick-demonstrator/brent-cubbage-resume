@@ -1,6 +1,6 @@
-{% assign linkedin = "https://www.linkedin.com/in/leon-hunter" %}
-{% assign email    = "xleonhunter@gmail.com" %}
-{% assign username = "git-leon" %}
+{% assign linkedin = "https://www.linkedin.com/in/eric-blackson-972b7193/" %}
+{% assign email    = "Aps14blacerig@gmail.com" %}
+{% assign username = "eblackk" %}
 {% capture repository %}
     https://{{ username }}.github.io/resume
 {% endcapture %}
